@@ -1,4 +1,4 @@
-##|────────────────────── 🇧🇷 Português Brasil 🇧🇷  ──────────────────────|
+|────────────────────── 🇧🇷 Português Brasil 🇧🇷  ──────────────────────|
 ## Quem sou eu?  
 ☁ Opa! Tudo certo? Meu nome é **@R14NL1M4**, mas pode me chamar de "Apenas".☁  
 ☁ Tenho 16 anos e estou começando a aprender sobre programação.             ☁  
@@ -8,7 +8,7 @@
 🍃 Ainda sou novo no GitHub e estou aprendendo, mas espero que com o tempo me torne um profissional. 🍃  
 🍃 Vai lá saber o que o futuro me aguarda...                                                         🍃  
 
-##|────────────────────── 🇺🇸 English Version 🇺🇸 ──────────────────────| 
+|────────────────────── 🇺🇸 English Version 🇺🇸 ──────────────────────| 
 
 ## Who am I?  
 ☁ Hey! What's up? My name is **@R14NL1M4**, but you can call me "Apenas". ☁  
