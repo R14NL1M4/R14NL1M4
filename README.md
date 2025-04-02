@@ -4,9 +4,9 @@
 ☁ Tenho 16 anos e estou começando a aprender sobre programação.             ☁  
 
 ## O que eu faço?  
-🍃 Atualmente estou aprendendo **HTML** e **CSS**, quem sabe **JavaScript** futuramente.             🍃
+🍃 Atualmente estou aprendendo **HTML** e **CSS**, quem sabe **JavaScript** futuramente.             🍃  
 🍃 Ainda sou novo no GitHub e estou aprendendo, mas espero que com o tempo me torne um profissional. 🍃  
-🍃 Vai lá saber o que o futuro me aguarda...                                                         🍃
+🍃 Vai lá saber o que o futuro me aguarda...                                                         🍃  
 
 ##:us:|────────────────────── 🇺🇸 English Version 🇺🇸 ──────────────────────| :us:  
 
